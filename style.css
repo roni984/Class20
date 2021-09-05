@@ -1,0 +1,152 @@
+body img{
+    max-width: 100%;
+}
+body ul{
+    list-style: none;
+}
+body a{
+    text-decoration: none;
+}
+.full_wrapper{
+    width: 100%;
+}
+.wrapper{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+.continarA{
+    width: 100%;
+}
+.header_bg{
+    background: #E3F2FD;
+    padding: 10px 0px;
+}
+.header_part{}
+.header_left{
+    float: left;
+    width: 700px;
+}
+.header_logo{
+    float: left;
+    width: 50px;
+    margin-right: 20px;
+}
+.header_logo img{}
+.header_manu{}
+.header_manu ul {
+    padding-left: 0px;
+    line-height: 36px;
+}
+.header_manu ul li{
+    display: inline-block;
+}
+.header_manu ul li a{
+    display: block;
+    padding: 0px 10px;
+    color: #858E94;
+    transition: all .5s;
+}
+.header_manu ul li a:hover, .active{
+    color: #393D40 !important;
+}
+.header_right{
+    float: right;
+    width: 300px;
+}
+.search {
+    padding: 5px 3px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.submit {
+    padding: 5px 7px;
+    color: #4DB669;
+    outline: none;
+    border: 1px solid #4DB669;
+    border-radius: 5px;
+    font-size: 13px;
+    transition: all .5s;
+}
+.submit:hover{
+    color: #fff;
+    background: #219340;
+}
+
+
+.subheader_bg{}
+.subheader_part {
+    margin-top: 30px;
+}
+.subheader_section{}
+.homeA {
+    background: #E9ECEF;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    color: #7F878E;
+}
+.homeB{
+    background: #E9ECEF;
+    border-radius: 5px;
+}
+.homeB span{
+    color: #7F878E;
+}
+
+
+.slider_bg{
+    margin-top: 10px;
+}
+
+
+.light_bg{
+    margin-top: 30px;
+}
+.colorA{
+    background: #D4EDDA;
+    color: #1C5C2A;
+}
+
+
+.prograsscollpas_bg{
+    margin-top: 50px;
+}
+
+.accordion-button::after{
+    content: none;
+}
+
+
+.botton_bbb{
+    border: 1px solid #DFDFDF;
+}
+.collapsA{
+    color: #0F82FF;
+    font-weight: 700;
+}
+
+
+
+.modeltab_bg{
+    margin-top: 30px;
+}
+
+.scrollspy_bg{
+    margin-top: 30px;
+}
+
+
+.pagination_bg{
+    margin-top: 50px;
+}
+
+.footer_bg{
+    background: #17A2B8;
+    padding: 5px 0px;
+    text-align: center;
+}
+.footer_bg p {
+    color: #fff;
+    font-size: 13px;
+    margin-top: 7px;
+}
